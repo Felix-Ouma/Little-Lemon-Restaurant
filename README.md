@@ -1,6 +1,6 @@
 # Little Lemon Mediterranean Restaurant
 
-![Little Lemon Mediterranean Restaurant](https://example.com/little-lemon-restaurant.jpg)
+![Little Lemon Mediterranean Restaurant](/Assets/Images/Little%20Lemon%20OG%20Github%20ReadMe%20Cover%20Art.png)
 
 Welcome to the Little Lemon Mediterranean Restaurant GitHub project! This repository serves as a hub for our restaurant's digital presence and community engagement.
 
