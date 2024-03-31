@@ -151,6 +151,10 @@ header{
     align-items: center;
     text-align: center;
     }
+    .art article:hover{
+        background-color: #FFF500;
+
+    }
     .art article p{
         color: var(--colors-text-text-primary-900, #101828);
     
